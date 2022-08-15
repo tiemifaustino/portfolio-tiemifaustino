@@ -28,4 +28,4 @@ Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade
 
 <h2>Link do meu portfólio: "🚧 Em construção 🚧"</h2>
 
-<img align="right" src="/images/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
+<img align="center" src="/images/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
