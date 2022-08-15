@@ -5,6 +5,7 @@ function App() {
   return (
     <Switch>
       <h2>Rotas</h2>
+      {/* <Route exact path='/sobre' component={ About } /> */}
       {/* <Route exact path='/projetos' component={ Projects } /> */}
       {/* <Route exact path='/contato' component={ Contact } /> */}
       {/* <Route exact path='/' component={ Home }/> */}
