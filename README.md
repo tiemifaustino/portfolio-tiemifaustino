@@ -17,7 +17,7 @@
 </div>
 <br>
 
-<div>
+<div align="justify">
 Estudando Desenvolvimento Web Full Stack para simplificar a vida das pessoas solucionando problemas por meio da programação.
 
 Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.</p>
@@ -25,4 +25,4 @@ Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade
 
 <h2>Link do meu portfólio: "🚧 Em construção 🚧"</h2>
 
-<img align="right" src="/images/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px"># portfolio-tiemifaustino
+<img align="right" src="/images/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
